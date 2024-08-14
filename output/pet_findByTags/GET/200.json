@@ -1,0 +1,12 @@
+{
+  "path": "/pet/findByTags",
+  "method": "get",
+  "response_code": "200",
+  "response": {
+    "description": "successful operation",
+    "schema": {
+      "type": "array",
+      "items": {}
+    }
+  }
+}

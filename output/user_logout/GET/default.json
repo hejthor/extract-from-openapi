@@ -1,0 +1,8 @@
+{
+  "path": "/user/logout",
+  "method": "get",
+  "response_code": "default",
+  "response": {
+    "description": "successful operation"
+  }
+}

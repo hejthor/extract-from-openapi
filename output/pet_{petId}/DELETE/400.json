@@ -1,0 +1,8 @@
+{
+  "path": "/pet/{petId}",
+  "method": "delete",
+  "response_code": "400",
+  "response": {
+    "description": "Invalid ID supplied"
+  }
+}

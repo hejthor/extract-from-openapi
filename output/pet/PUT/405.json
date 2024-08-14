@@ -1,0 +1,8 @@
+{
+  "path": "/pet",
+  "method": "put",
+  "response_code": "405",
+  "response": {
+    "description": "Validation exception"
+  }
+}

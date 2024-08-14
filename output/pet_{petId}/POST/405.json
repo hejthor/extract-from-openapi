@@ -1,0 +1,8 @@
+{
+  "path": "/pet/{petId}",
+  "method": "post",
+  "response_code": "405",
+  "response": {
+    "description": "Invalid input"
+  }
+}

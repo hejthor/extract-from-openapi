@@ -1,0 +1,8 @@
+{
+  "path": "/pet/{petId}",
+  "method": "delete",
+  "response_code": "404",
+  "response": {
+    "description": "Pet not found"
+  }
+}

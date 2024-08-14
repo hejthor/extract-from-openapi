@@ -1,0 +1,8 @@
+{
+  "path": "/user/login",
+  "method": "get",
+  "response_code": "400",
+  "response": {
+    "description": "Invalid username/password supplied"
+  }
+}

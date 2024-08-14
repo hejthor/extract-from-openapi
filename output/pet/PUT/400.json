@@ -1,0 +1,8 @@
+{
+  "path": "/pet",
+  "method": "put",
+  "response_code": "400",
+  "response": {
+    "description": "Invalid ID supplied"
+  }
+}

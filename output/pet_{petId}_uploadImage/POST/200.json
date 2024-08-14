@@ -1,0 +1,9 @@
+{
+  "path": "/pet/{petId}/uploadImage",
+  "method": "post",
+  "response_code": "200",
+  "response": {
+    "description": "successful operation",
+    "schema": {}
+  }
+}

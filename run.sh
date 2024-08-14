@@ -1,0 +1,1 @@
+python3 script.py -json input/swagger.json -output output

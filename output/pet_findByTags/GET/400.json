@@ -1,0 +1,8 @@
+{
+  "path": "/pet/findByTags",
+  "method": "get",
+  "response_code": "400",
+  "response": {
+    "description": "Invalid tag value"
+  }
+}

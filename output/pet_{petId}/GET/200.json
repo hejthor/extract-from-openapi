@@ -1,0 +1,9 @@
+{
+  "path": "/pet/{petId}",
+  "method": "get",
+  "response_code": "200",
+  "response": {
+    "description": "successful operation",
+    "schema": {}
+  }
+}

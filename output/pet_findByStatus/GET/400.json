@@ -1,0 +1,8 @@
+{
+  "path": "/pet/findByStatus",
+  "method": "get",
+  "response_code": "400",
+  "response": {
+    "description": "Invalid status value"
+  }
+}

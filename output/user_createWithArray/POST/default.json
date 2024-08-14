@@ -1,0 +1,8 @@
+{
+  "path": "/user/createWithArray",
+  "method": "post",
+  "response_code": "default",
+  "response": {
+    "description": "successful operation"
+  }
+}
